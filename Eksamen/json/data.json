@@ -1,0 +1,102 @@
+[
+  {
+    "name": "adam",
+    "age:": "55",
+    "city": "trondheim"
+  },
+  {
+    "name": "lars",
+    "age:": "54",
+    "city": "oslo"
+  },
+  {
+    "name": "john",
+    "age:": "23",
+    "city": "madrid"
+  },
+  {
+    "name": "stine",
+    "age:": "22",
+    "city": "trondheim"
+  },
+  {
+    "name": "rebekka",
+    "age:": "20",
+    "city": "oslo"
+  },
+  {
+    "name": "mats",
+    "age:": "32",
+    "city": "trondheim"
+  },
+  {
+    "name": "lars",
+    "age:": "32",
+    "city": "oslo"
+  },
+  {
+    "name": "gunnar",
+    "age:": "22",
+    "city": "trondheim"
+  },
+  {
+    "name": "anita",
+    "age:": "37",
+    "city": "trondheim"
+  },
+  {
+    "name": "stine",
+    "age:": "23",
+    "city": "berlin"
+  },
+  {
+    "name": "lars",
+    "age:": "43",
+    "city": "trondheim"
+  },
+  {
+    "name": "anders",
+    "age:": "10",
+    "city": "new york"
+  },
+  {
+    "name": "sivert",
+    "age:": "51",
+    "city": "trondheim"
+  },
+  {
+    "name": "carlos",
+    "age:": "30",
+    "city": "trondheim"
+  },
+  {
+    "name": "bibbi",
+    "age:": "23",
+    "city": "berlin"
+  },
+  {
+    "name": "lars",
+    "age:": "23",
+    "city": "oslo"
+  },
+  {
+    "name": "hans",
+    "age:": "33",
+    "city": "berlin"
+  },
+  {
+    "name": "bård",
+    "age:": "12",
+    "city": "bergen"
+  },
+  {
+    "name": "stian",
+    "age:": "66",
+    "city": "trondheim"
+  },
+  {
+    "name": "hanne",
+    "age:": "22",
+    "city": "oslo"
+  }
+]
